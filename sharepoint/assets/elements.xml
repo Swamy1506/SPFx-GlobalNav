@@ -4,6 +4,6 @@
         Title="NavbarExtension"
         Location="ClientSideExtension.ApplicationCustomizer"
         ClientSideComponentId="e214319e-f89d-4cff-b1c6-30ff573efc7c"
-        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+        ClientSideComponentProperties="{&quot;NavTermSet&quot;:&quot;Global Nav&quot;&quot;FooterTermSet;:&quot;Footer Nav&quot;}">
     </CustomAction>
 </Elements>
